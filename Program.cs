@@ -4,5 +4,10 @@ int Sum(int a, int b)
     return a + b;
 }
 
+int Sub(int a, int b)
+{
+    return a - b;
+}
+
 Console.WriteLine("Hello, World!");
 System.Console.WriteLine(Sum(2, 2));
